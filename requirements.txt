@@ -1,0 +1,7 @@
+fastapi
+pydantic
+pandas
+matplotlib
+uvicorn
+scikit-learn
+statsmodels

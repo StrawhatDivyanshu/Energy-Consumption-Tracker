@@ -1,0 +1,29 @@
+{
+  "name": "arima-flask",
+  "version": "1.0.0",
+  "description": "This project is a Flask application for time series forecasting using the ARIMA model. The application provides a user-friendly interface for visualizing and predicting future trends.",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"No tests specified\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StrawhatDivyanshu/Energy-Consumption-Tracker.git"
+  },
+  "keywords": [
+    "[",
+    "\"energy\"",
+    "\"tracking\"",
+    "\"optimization\"",
+    "\"flask\"",
+    "\"webapp\"",
+    "\"cost-management\"",
+    "]"
+  ],
+  "author": "Divyanshu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StrawhatDivyanshu/Energy-Consumption-Tracker/issues"
+  },
+  "homepage": "https://github.com/StrawhatDivyanshu/Energy-Consumption-Tracker#readme"
+}
